@@ -57,7 +57,7 @@ nohup ./sonar-dingtalk-plugin-1.0.0-mac &
 
 ![图片描述](https://i.niupic.com/images/2020/10/29/8VFR.jpg)
 
-名称随便填，URL填 `http://插件部署电脑的IP:9001/dingtalk?access_token=这里填刚才复制的机器人的token`
+名称随便填，URL填 `http://插件部署电脑的IP:9001/dingtalk?sonar_token=SonarQube的访问令牌&access_token=这里填刚才复制的机器人的token`
 
 ### 4. 大功告成
 
